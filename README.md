@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JASWANTvemulapalli
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning to develop Full Stack Applications
 - 💞️ I’m working as Project Engineer at Wipro
 - 📫 How to reach me ...vjaswant7@gmail.com
 

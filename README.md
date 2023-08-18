@@ -18,10 +18,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postman,python,tensorflow,javascript,react)](https://skillicons.dev)
 
+<h3>📚 Courses and Certifications:</h3>
+
+- [**Principles of Computing (Part 1)**](https://coursera.org/share/5f4afd231643c47d5ae9576732bff8c9) - Coursera, Rice University
+- [**Principles of Computing (Part 2)**](https://coursera.org/share/f5f5fd0efa9bcfc637cc213510ac388a) - Coursera, Rice University
+- [**Algorithmic Thinking (Part 1)**](https://coursera.org/share/b596ca25b0c9c856039e40d553722e7f) - Coursera, Rice University
+- [**Algorithmic Thinking (Part 2)**](https://coursera.org/share/28921927fd0722e87835a1a7c586c9a2) - Coursera, Rice University
+- [**Java Programming**](https://www.udemy.com/certificate/UC-1c0f245d-a4e2-4f70-a5e1-d024c2bc44fc/) - Udemy
+
 </div>
-
-
-
-
-
 
